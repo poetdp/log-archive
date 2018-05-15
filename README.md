@@ -45,6 +45,6 @@ logs
 
 ## License
 
-![](https://img.shields.io/github/license/rocj/logarchive.svg?style=flat-square)
+![](https://img.shields.io/github/license/poetdp/log-archive.svg?style=flat)
 
 Released under the [MIT](./LICENSE) License.
